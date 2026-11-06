@@ -22,7 +22,7 @@
 ### 💫 About Me
 
 ```yaml
-name: Ayachi Dhia Eddine (عياشي ضياء الدين)
+name: Ayachi Dhia Eddine
 role: AI/ML Engineer & NLP Researcher
 education: Applied Linguistics & Computational AI
 focus_areas:
@@ -142,12 +142,18 @@ languages: [Arabic (Native), English (Fluent), French (Fluent)]
 ### 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiaeddine-ayh&show_icons=true&theme=radical&hide_border=true&title_color=00f2fe&icon_color=00c6ff&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiaeddine-ayh&theme=radical&hide_border=true&stroke=00f2fe&ring=00c6ff&fire=00f2fe&currStreakLabel=00c6ff&background=0d1117" alt="GitHub Streak" width="49%" />
+  <img src="https://komarev.com/ghpvc/?username=dhiaeddine-ayh&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhiaeddine-ayh&show_icons=true&theme=radical&hide_border=true&title_color=00f2fe&icon_color=00c6ff&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=dhiaeddine-ayh&theme=radical&hide_border=true&stroke=00f2fe&ring=00c6ff&fire=00f2fe&currStreakLabel=00c6ff&background=0d1117" alt="GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiaeddine-ayh&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhiaeddine-ayh&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
