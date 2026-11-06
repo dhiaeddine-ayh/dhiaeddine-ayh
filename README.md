@@ -24,7 +24,7 @@
 ```yaml
 name: Ayachi Dhia Eddine
 role: AI/ML Engineer & NLP Researcher
-education: Applied Linguistics & Computational AI
+education: Electronics & Telecommunications Engineer (IT & Software Specialization)
 focus_areas:
   - Deep Learning & Arabic NLP (Morphological Priors, Diacritization)
   - Spacecraft Anomaly Detection & Time-Series Telemetry
